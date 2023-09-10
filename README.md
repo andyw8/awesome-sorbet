@@ -17,11 +17,16 @@ Resources and examples for Sorbet
 ## Blog Posts
   
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
+* [Adopting Sorbet at Scale](https://shopify.engineering/adopting-sorbet) - Alexandre Terrasa (Shopify)
+* [Jake Zimmerman](https://blog.jez.io) (many posts about Sorbet)
+* [The State of Ruby Static Typing at Shopify](https://shopify.engineering/the-state-of-ruby-static-typing-at-shopify)
 
 ## Podcasts Episodes
 
-[Remote Ruby: Rails 7, Railties, and Sorbet at Shopify with Rafael França from Rails Core
+* [Remote Ruby: Rails 7, Railties, and Sorbet at Shopify with Rafael França from Rails Core
 ](https://remoteruby.com/157)
+* [Ruby Rogues: Using Typing Systems in Ruby with Sorbet ft. Alex Dunae]
+(https://topenddevs.com/podcasts/ruby-rogues/episodes/using-typing-systems-in-ruby-with-sorbet-ft-alex-dunae-ruby-512)
 
 ## Talks
 
