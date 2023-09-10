@@ -16,7 +16,7 @@ Resources and examples for Sorbet
 
 ## Blog Posts
   
-* [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/)https://nithinbekal.com/posts/sorbet-rails/ - Nithin Bekal
+* [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
 
 ## Podcasts Episodes
 
