@@ -18,7 +18,7 @@ Resources and examples for Sorbet
   
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
 * [Adopting Sorbet at Scale](https://shopify.engineering/adopting-sorbet) - Alexandre Terrasa (Shopify)
-* [Jake Zimmerman](https://blog.jez.io) (many posts about Sorbet)
+* [Jake Zimmerman](https://blog.jez.io/categories/#sorbet) (many posts about Sorbet)
 * [The State of Ruby Static Typing at Shopify](https://shopify.engineering/the-state-of-ruby-static-typing-at-shopify)
 
 ## Podcasts Episodes
