@@ -25,8 +25,7 @@ Resources and examples for Sorbet
 
 * [Remote Ruby: Rails 7, Railties, and Sorbet at Shopify with Rafael França from Rails Core
 ](https://remoteruby.com/157)
-* [Ruby Rogues: Using Typing Systems in Ruby with Sorbet ft. Alex Dunae]
-(https://topenddevs.com/podcasts/ruby-rogues/episodes/using-typing-systems-in-ruby-with-sorbet-ft-alex-dunae-ruby-512)
+* [Ruby Rogues: Using Typing Systems in Ruby with Sorbet ft. Alex Dunae](https://topenddevs.com/podcasts/ruby-rogues/episodes/using-typing-systems-in-ruby-with-sorbet-ft-alex-dunae-ruby-512)
 
 ## Talks
 
