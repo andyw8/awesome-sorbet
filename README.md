@@ -32,3 +32,13 @@ Resources and examples for Sorbet
 * [RubyConf 2021 - Sorbet at Grailed: Typing a Large Rails Codebase to Ship with... by Jose Rosello](https://www.youtube.com/watch?v=v9oYeSZGkUw)https://www.youtube.com/watch?v=v9oYeSZGkUw
 * [RubyConf 2019 - Adopting Sorbet at Scale by Ufuk Kayserilioglu
 ](https://www.youtube.com/watch?v=v9oYeSZGkUw)https://www.youtube.com/watch?v=v9oYeSZGkUw
+
+## Support
+
+* [StackOverflow: Questions tagged 'sorbet'
+](https://stackoverflow.com/questions/tagged/sorbet)https://stackoverflow.com/questions/tagged/sorbet
+* [Sorbet Slack Community](https://sorbet.org/slack)
+
+## Other Lists
+
+* https://sorbet.org/en/community
