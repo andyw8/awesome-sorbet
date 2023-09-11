@@ -43,7 +43,7 @@ Resources and examples for Sorbet
 ## Support
 
 * [StackOverflow: Questions tagged 'sorbet'
-](https://stackoverflow.com/questions/tagged/sorbet)https://stackoverflow.com/questions/tagged/sorbet
+](https://stackoverflow.com/questions/tagged/sorbet)
 * [Sorbet Slack Community](https://sorbet.org/slack)
 
 ## Other Lists
