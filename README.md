@@ -9,6 +9,7 @@ Resources and examples for Sorbet
 * https://github.com/Shopify/spoom
 * https://github.com/Shopify/rubocop-sorbet
 * https://github.com/Shopify/rbi-central
+* https://github.com/kddnewton/sorbet-eraser - Erase all traces of sorbet-runtime code
 
 ## Courses
 
