@@ -10,6 +10,7 @@ Resources and examples for Sorbet
 * https://github.com/Shopify/rubocop-sorbet
 * https://github.com/Shopify/rbi-central
 * https://github.com/kddnewton/sorbet-eraser - Erase all traces of sorbet-runtime code
+* https://github.com/dduugg/yard-sorbet
 
 ## Courses
 
@@ -48,9 +49,13 @@ Resources and examples for Sorbet
 
 ## Open Source codebases using Sorbet
 
-* [Homebrew](https://brew.sh) ([Type Checking With Sorbet](https://docs.brew.sh/Typechecking))
 * [Ruby LSP](https://github.com/Shopify/ruby-lsp)
 * [Ruby LSP Rails](https://github.com/Shopify/ruby-lsp-rails)
+  [Homebrew](https://brew.sh) ([Type Checking With Sorbet](https://docs.brew.sh/Typechecking))
+* https://github.com/Shopify/shopify-api-ruby
+* https://github.com/Shopify/packwerk
+* https://github.com/Vonage/vonage-ruby-sdk
+* https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk
 
 ## Other Lists
 
