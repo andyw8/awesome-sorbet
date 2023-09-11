@@ -29,9 +29,9 @@ Resources and examples for Sorbet
 
 ## Talks
 
-* [RubyConf 2021 - Sorbet at Grailed: Typing a Large Rails Codebase to Ship with... by Jose Rosello](https://www.youtube.com/watch?v=v9oYeSZGkUw)https://www.youtube.com/watch?v=v9oYeSZGkUw
+* [RubyConf 2021 - Sorbet at Grailed: Typing a Large Rails Codebase to Ship with Confidence by Jose Rosello](https://www.youtube.com/watch?v=oI4dEMmsTEk)
 * [RubyConf 2019 - Adopting Sorbet at Scale by Ufuk Kayserilioglu
-](https://www.youtube.com/watch?v=v9oYeSZGkUw)https://www.youtube.com/watch?v=v9oYeSZGkUw
+](https://www.youtube.com/watch?v=v9oYeSZGkUw)
 
 ## Support
 
