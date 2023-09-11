@@ -46,6 +46,12 @@ Resources and examples for Sorbet
 ](https://stackoverflow.com/questions/tagged/sorbet)
 * [Sorbet Slack Community](https://sorbet.org/slack)
 
+## Open Source codebases using Sorbet
+
+* [Homebrew](https://brew.sh) ([Type Checking With Sorbet](https://docs.brew.sh/Typechecking))
+* [Ruby LSP](https://github.com/Shopify/ruby-lsp)
+* [Ruby LSP Rails](https://github.com/Shopify/ruby-lsp-rails)
+
 ## Other Lists
 
 * https://sorbet.org/en/community
