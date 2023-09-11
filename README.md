@@ -51,7 +51,7 @@ Resources and examples for Sorbet
 
 * [Ruby LSP](https://github.com/Shopify/ruby-lsp)
 * [Ruby LSP Rails](https://github.com/Shopify/ruby-lsp-rails)
-  [Homebrew](https://brew.sh) ([Type Checking With Sorbet](https://docs.brew.sh/Typechecking))
+* [Homebrew](https://brew.sh) ([Type Checking With Sorbet](https://docs.brew.sh/Typechecking))
 * https://github.com/Shopify/shopify-api-ruby
 * https://github.com/Shopify/packwerk
 * https://github.com/Vonage/vonage-ruby-sdk
