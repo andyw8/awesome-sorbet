@@ -23,6 +23,7 @@ Resources and examples for Sorbet
 * [Static Typing for Ruby](https://shopify.engineering/static-typing-ruby) - Alexandre Terrasa (Shopify)
 * [Jake Zimmerman](https://blog.jez.io/categories/#sorbet) (many posts about Sorbet)
 * [The State of Ruby Static Typing at Shopify](https://shopify.engineering/the-state-of-ruby-static-typing-at-shopify)
+* [Sorbet As Your Ruby Mentor](https://railsatscale.com/2023-01-04-sorbet-your-ruby-mentor/) - Andy Waite
 
 ## Podcasts Episodes
 
