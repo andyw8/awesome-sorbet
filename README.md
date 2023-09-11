@@ -30,6 +30,7 @@ Resources and examples for Sorbet
 ](https://remoteruby.com/157)
 * [Ruby Rogues: Using Typing Systems in Ruby with Sorbet ft. Alex Dunae](https://topenddevs.com/podcasts/ruby-rogues/episodes/using-typing-systems-in-ruby-with-sorbet-ft-alex-dunae-ruby-512)
 * [Shipit! Presents: The State of Ruby Static Typing at Shopify with Ufuk Kayserilioglu and Alexandre Terrasa](https://www.youtube.com/watch?v=DA9gPuBkhFk)
+* [The Changelog: Types will win in the end](https://changelog.com/podcast/548) with Jake Zimmerman
 
 ## Talks
 
@@ -56,6 +57,7 @@ Resources and examples for Sorbet
 * https://github.com/Shopify/packwerk
 * https://github.com/Vonage/vonage-ruby-sdk
 * https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk
+* https://github.com/testdouble/mocktail
 
 ## Other Lists
 
