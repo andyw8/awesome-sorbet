@@ -16,7 +16,7 @@ Resources and examples for Sorbet
 * [Practical Sorbet: Improving Your Ruby with Type-safety](https://www.udemy.com/course/practical-sorbet/)
 
 ## Blog Posts
-  
+
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
 * [Adopting Sorbet at Scale](https://shopify.engineering/adopting-sorbet) - Alexandre Terrasa (Shopify)
 * [Jake Zimmerman](https://blog.jez.io/categories/#sorbet) (many posts about Sorbet)
