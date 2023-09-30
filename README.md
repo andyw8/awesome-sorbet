@@ -59,6 +59,7 @@ Resources and examples for Sorbet
 * https://github.com/Vonage/vonage-ruby-sdk
 * https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk
 * https://github.com/testdouble/mocktail
+* https://github.com/LTe/acts-as-messageable
 
 ## Other Lists
 
