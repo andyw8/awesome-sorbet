@@ -60,6 +60,9 @@ Resources and examples for Sorbet
 * https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk
 * https://github.com/testdouble/mocktail
 * https://github.com/LTe/acts-as-messageable
+* [vglist](https://github.com/connorshea/vglist) - A video game library tracking web app built in Rails and powered by Wikidata.
+
+
 
 ## Other Lists
 
