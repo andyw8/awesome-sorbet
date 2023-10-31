@@ -18,6 +18,7 @@ Resources and examples for Sorbet
 
 ## Blog Posts
 
+* [Experiment: Fully adding Sorbet and RBS to a small project](https://radanskoric.com/experiments/experiment-gradual-typing) - Radan Skorić (2023-10-30)
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
 * [Adopting Sorbet at Scale](https://shopify.engineering/adopting-sorbet) - Alexandre Terrasa (Shopify)
 * [Static Typing for Ruby](https://shopify.engineering/static-typing-ruby) - Alexandre Terrasa (Shopify)
