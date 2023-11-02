@@ -65,6 +65,7 @@ Resources and examples for Sorbet
 * https://github.com/dependabot/dependabot-core
 * https://github.com/phobos/phobos - Simplifying Kafka for Ruby apps
 * https://github.com/rubyatscale/code_ownership - A gem to help engineering teams declare ownership of code (Gusto)
+* https://github.com/thatch-health/sorbet_operation
 
 ## Other Lists
 
