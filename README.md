@@ -67,6 +67,13 @@ Resources and examples for Sorbet
 * https://github.com/rubyatscale/code_ownership - A gem to help engineering teams declare ownership of code (Gusto)
 * https://github.com/thatch-health/sorbet_operation
 
+## Companies using Sorbet
+
+* Stripe
+* Shopify
+* FullScript
+* Instacart ([source](https://news.ycombinator.com/item?id=24506078))
+
 ## Other Lists
 
 * https://sorbet.org/en/community
