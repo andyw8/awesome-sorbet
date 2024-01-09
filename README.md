@@ -72,7 +72,9 @@ Resources and examples for Sorbet
 * Stripe
 * Shopify
 * FullScript
+* Gusto
 * Instacart ([source](https://news.ycombinator.com/item?id=24506078))
+* (see the [Sorbet homepage](https://sorbet.org/) for more)
 
 ## Other Lists
 
