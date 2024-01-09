@@ -74,7 +74,7 @@ Resources and examples for Sorbet
 * FullScript
 * Gusto
 * [Thatch](https://thatch.ai/)
-* Instacart ([source](https://news.ycombinator.com/item?id=24506078))
+* Instacart
 * (see the [Sorbet homepage](https://sorbet.org/) for more)
 
 ## Other Lists
