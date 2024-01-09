@@ -42,12 +42,12 @@ Resources and examples for Sorbet
 * [RubyConf 2021 - Gradual Typing in Ruby - A Three Year Retrospective by Ufuk Kayserilioglu, Alexandre Terrasa](https://www.youtube.com/watch?v=a3jfpSmikdg)
 * [RubyConf 2019 - Adopting Sorbet at Scale by Ufuk Kayserilioglu
 ](https://www.youtube.com/watch?v=v9oYeSZGkUw)
+* [RubyConf 2019 - Sorbet: A type checker for Ruby 3 you can use today! by Jake Zimmerman and Dmitry Petrashko](https://www.youtube.com/watch?v=jielBIZ40mw)
 * [RubyKaigi 2019 - State of Sorbet: A Type Checker for Ruby by Jake Zimmerman, Paul Tarjan](https://www.youtube.com/watch?v=odmlf_ezsBo)
 
 ## Support
 
-* [StackOverflow: Questions tagged 'sorbet'
-](https://stackoverflow.com/questions/tagged/sorbet)
+* [StackOverflow: Questions tagged 'sorbet'](https://stackoverflow.com/questions/tagged/sorbet)
 * [Sorbet Slack Community](https://sorbet.org/slack)
 
 ## Open Source codebases using Sorbet
