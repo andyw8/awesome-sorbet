@@ -75,6 +75,7 @@ Resources and examples for Sorbet
 * Gusto
 * [Thatch](https://thatch.ai/)
 * Instacart
+* GitHub ([dependabot-core](https://github.com/dependabot/dependabot-core/))
 * (see the [Sorbet homepage](https://sorbet.org/) for more)
 
 ## Other Lists
