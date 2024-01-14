@@ -11,6 +11,7 @@ Resources and examples for Sorbet
 * https://github.com/Shopify/rbi-central
 * https://github.com/kddnewton/sorbet-eraser - Erase all traces of sorbet-runtime code
 * https://github.com/dduugg/yard-sorbet
+* https://github.com/thatch-health/sorbet_operation
 
 ## Courses
 
@@ -65,7 +66,6 @@ Resources and examples for Sorbet
 * https://github.com/dependabot/dependabot-core
 * https://github.com/phobos/phobos - Simplifying Kafka for Ruby apps
 * https://github.com/rubyatscale/code_ownership - A gem to help engineering teams declare ownership of code (Gusto)
-* https://github.com/thatch-health/sorbet_operation
 
 ## Companies using Sorbet
 
