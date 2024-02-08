@@ -4,7 +4,7 @@ Resources and examples for Sorbet
 ## Tooling
 
 * https://sorbet.org
-* https://sorbet.run
+* https://sorbet.run - Playground
 * https://github.com/Shopify/tapioca
 * https://github.com/Shopify/spoom
 * https://github.com/Shopify/rubocop-sorbet
