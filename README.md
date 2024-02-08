@@ -55,7 +55,7 @@ Resources and examples for Sorbet
 ## Open Source codebases using Sorbet
 
 * [ruby-lsp](https://github.com/Shopify/ruby-lsp)
-  [ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails)
+* [ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails)
 * [ruby-lsp-rspec](https://github.com/st0012/ruby-lsp-rspec)
 * [Homebrew](https://brew.sh) ([Type Checking With Sorbet](https://docs.brew.sh/Typechecking))
 * https://github.com/Shopify/cli-ui
