@@ -16,6 +16,7 @@ Resources and examples for Sorbet
 ## Courses
 
 * [Practical Sorbet: Improving Your Ruby with Type-safety](https://www.udemy.com/course/practical-sorbet/)
+* [Learn Sorbet in Y minutes](https://jdkaplan.dev/blog/learn-sorbet-in-y-minutes/) (2020)
 
 ## Blog Posts
 
