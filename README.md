@@ -12,6 +12,7 @@ Resources and examples for Sorbet
 * https://github.com/kddnewton/sorbet-eraser - Erase all traces of sorbet-runtime code
 * https://github.com/dduugg/yard-sorbet
 * https://github.com/thatch-health/sorbet_operation
+* ~https://github.com/chanzuckerberg/sorbet-rails~ (archived)
 
 ## Courses
 
@@ -27,6 +28,7 @@ Resources and examples for Sorbet
 * [Jake Zimmerman](https://blog.jez.io/categories/#sorbet) (many posts about Sorbet)
 * [The State of Ruby Static Typing at Shopify](https://shopify.engineering/the-state-of-ruby-static-typing-at-shopify)
 * [Sorbet As Your Ruby Mentor](https://railsatscale.com/2023-01-04-sorbet-your-ruby-mentor/) - Andy Waite
+* [Sorbet Journey](https://dunae.ca/2020/12/01/sorbet-journey-types-motivation.html) (4 part series)
 
 ## Podcasts Episodes
 
