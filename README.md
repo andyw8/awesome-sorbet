@@ -12,6 +12,7 @@ Resources and examples for Sorbet
 * https://github.com/kddnewton/sorbet-eraser - Erase all traces of sorbet-runtime code
 * https://github.com/dduugg/yard-sorbet
 * https://github.com/thatch-health/sorbet_operation
+* https://github.com/AaronC81/parlour
 * ~https://github.com/chanzuckerberg/sorbet-rails~ (archived)
 
 ## Courses
