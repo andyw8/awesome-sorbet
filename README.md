@@ -14,6 +14,7 @@ Resources and examples for Sorbet
 * https://github.com/thatch-health/sorbet_operation
 * https://github.com/AaronC81/parlour
 * ~https://github.com/chanzuckerberg/sorbet-rails~ (archived)
+* https://github.com/coinbase/protoc-gen-rbi - Protobuf compiler plugin that generates Sorbet .rbi "Ruby Interface" files.
 
 ## Courses
 
@@ -85,6 +86,7 @@ Resources and examples for Sorbet
 * Instacart
 * GitHub ([dependabot-core](https://github.com/dependabot/dependabot-core/))
 * (see the [Sorbet homepage](https://sorbet.org/) for more)
+* Coinbase
 
 ## Other Lists
 
