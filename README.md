@@ -13,6 +13,7 @@ Resources and examples for Sorbet
 * https://github.com/dduugg/yard-sorbet
 * https://github.com/thatch-health/sorbet_operation
 * https://github.com/AaronC81/parlour
+* https://github.com/AaronC81/sord - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 * ~https://github.com/chanzuckerberg/sorbet-rails~ (archived)
 * https://github.com/coinbase/protoc-gen-rbi - Protobuf compiler plugin that generates Sorbet .rbi "Ruby Interface" files.
 
