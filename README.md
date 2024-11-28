@@ -16,6 +16,7 @@ Resources and examples for Sorbet
 * https://github.com/AaronC81/sord - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
 * ~https://github.com/chanzuckerberg/sorbet-rails~ (archived)
 * https://github.com/coinbase/protoc-gen-rbi - Protobuf compiler plugin that generates Sorbet .rbi "Ruby Interface" files.
+* https://github.com/angellist/boba - a collection of compilers for Sorbet & Tapioca.
 
 ## Courses
 
