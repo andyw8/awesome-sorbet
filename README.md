@@ -90,6 +90,7 @@ Resources and examples for Sorbet
 * GitHub ([dependabot-core](https://github.com/dependabot/dependabot-core/))
 * (see the [Sorbet homepage](https://sorbet.org/) for more)
 * Coinbase
+* AngelList ([boba](https://github.com/angellist/boba/tree/main/lib))
 
 ## Other Lists
 
