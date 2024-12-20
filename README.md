@@ -34,6 +34,7 @@ Resources and examples for Sorbet
 * [The State of Ruby Static Typing at Shopify](https://shopify.engineering/the-state-of-ruby-static-typing-at-shopify)
 * [Sorbet As Your Ruby Mentor](https://railsatscale.com/2023-01-04-sorbet-your-ruby-mentor/) - Andy Waite
 * [Sorbet Journey](https://dunae.ca/2020/12/01/sorbet-journey-types-motivation.html) (4 part series)
+* [Sorbetting a gem, or the story of the first adoption](https://evilmartians.com/chronicles/sorbetting-a-gem) (2019-06-24)
 
 ## Podcasts Episodes
 
