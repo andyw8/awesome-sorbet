@@ -93,6 +93,7 @@ Resources and examples for Sorbet
 * GitHub ([dependabot-core](https://github.com/dependabot/dependabot-core/))
 * Coinbase
 * AngelList ([boba](https://github.com/angellist/boba/tree/main/lib))
+* Anthropic ([anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby/))
 
 ## Other Lists
 
