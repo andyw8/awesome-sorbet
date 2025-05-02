@@ -25,9 +25,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 
 ## Blog Posts
 
-* [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/) - Jake Zimmerman (2025-04-25)
-* [Inline RBS comments support for Sorbet](https://railsatscale.com/2025-04-23-rbs-support-for-sorbet/) - Alexandre Terras (2025-04-24)
-* [Why did Stripe build Sorbet? (~2017)](https://lethain.com/stripe-sorbet/) - Will Larson (2025-04-17)
+* [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/) - Jake Zimmerman (Stripe) (2025-04-25)
+* [Inline RBS comments support for Sorbet](https://railsatscale.com/2025-04-23-rbs-support-for-sorbet/) - Alexandre Terrasa (Shopify) (2025-04-24)
+* [Why did Stripe build Sorbet? (~2017)](https://lethain.com/stripe-sorbet/) - Will Larson (ex-Stripe) (2025-04-17)
 * [Two insights from using Sorbet](https://allaboutcoding.ghinda.com/two-insights-from-using-sorbet) - Lucian Ghinda (2023-02-09)
 * [Experiment: Fully adding Sorbet and RBS to a small project](https://radanskoric.com/experiments/experiment-gradual-typing) - Radan Skorić (2023-10-30)
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
