@@ -1,5 +1,5 @@
 # awesome-sorbet
-Resources and examples for Sorbet
+An [awesome list](https://github.com/topics/awesome-list) of resources and examples for Sorbet.
 
 ## Tooling
 
