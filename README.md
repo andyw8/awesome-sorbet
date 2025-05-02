@@ -25,6 +25,7 @@ Resources and examples for Sorbet
 
 ## Blog Posts
 
+* [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/) - Jake Zimmerman (2025-04-25)
 * [Inline RBS comments support for Sorbet](https://railsatscale.com/2025-04-23-rbs-support-for-sorbet/) - Alexandre Terras (2025-04-24)
 * [Why did Stripe build Sorbet? (~2017)](https://lethain.com/stripe-sorbet/) - Will Larson [2025-04-17]
 * [Two insights from using Sorbet](https://allaboutcoding.ghinda.com/two-insights-from-using-sorbet) - Lucian Ghinda (2023-02-09)
@@ -32,11 +33,11 @@ Resources and examples for Sorbet
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
 * [Adopting Sorbet at Scale](https://shopify.engineering/adopting-sorbet) - Alexandre Terrasa (Shopify)
 * [Static Typing for Ruby](https://shopify.engineering/static-typing-ruby) - Alexandre Terrasa (Shopify)
-* [Jake Zimmerman](https://blog.jez.io/categories/#sorbet) (many posts about Sorbet)
 * [The State of Ruby Static Typing at Shopify](https://shopify.engineering/the-state-of-ruby-static-typing-at-shopify)
 * [Sorbet As Your Ruby Mentor](https://railsatscale.com/2023-01-04-sorbet-your-ruby-mentor/) - Andy Waite
 * [Sorbet Journey](https://dunae.ca/2020/12/01/sorbet-journey-types-motivation.html) (4 part series)
 * [Sorbetting a gem, or the story of the first adoption](https://evilmartians.com/chronicles/sorbetting-a-gem) (2019-06-24)
+* [Jake Zimmerman](https://blog.jez.io/categories/#sorbet)'s blog has many posts about Sorbet
 
 ## Podcasts Episodes
 
