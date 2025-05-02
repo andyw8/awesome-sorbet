@@ -26,7 +26,7 @@ Resources and examples for Sorbet
 ## Blog Posts
 
 * [Inline RBS comments support for Sorbet](https://railsatscale.com/2025-04-23-rbs-support-for-sorbet/) - Alexandre Terras (2025-04-24)
-* [Why did Stripe build Sorbet? (~2017)](Why did Stripe build Sorbet? (~2017)) - Will Larson [2025-04-17]
+* [Why did Stripe build Sorbet? (~2017)](https://lethain.com/stripe-sorbet/) - Will Larson [2025-04-17]
 * [Two insights from using Sorbet](https://allaboutcoding.ghinda.com/two-insights-from-using-sorbet) - Lucian Ghinda (2023-02-09)
 * [Experiment: Fully adding Sorbet and RBS to a small project](https://radanskoric.com/experiments/experiment-gradual-typing) - Radan Skorić (2023-10-30)
 * [Adding Sorbet to a Rails project](https://nithinbekal.com/posts/sorbet-rails/) - Nithin Bekal
