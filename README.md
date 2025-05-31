@@ -49,6 +49,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 
 ## Talks
 
+* [RubyKaigi 2025 - Inline RBS comments for seamless type checking with Sorert by Alexandre Terrasa](https://www.youtube.com/watch?v=l4YjoEgpmXs)
 * [RubyKaigi 2023 - Gradual typing for Ruby: comparing RBS and RBI/Sorbet by Alexandre Terrasa](https://www.youtube.com/watch?v=GOC4BRJ-OPY)
 * [RubyKaigi 2023 - Generating RBIs for dynamic mixins with Sorbet and Tapioca by Emily Samp](https://www.youtube.com/watch?v=UpbVZ4Gqk3c)
 * [RubyConf 2021 - Sorbet at Grailed: Typing a Large Rails Codebase to Ship with Confidence by Jose Rosello](https://www.youtube.com/watch?v=oI4dEMmsTEk)
