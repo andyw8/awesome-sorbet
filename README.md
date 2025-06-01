@@ -96,7 +96,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 * Instacart
 * GitHub ([dependabot-core](https://github.com/dependabot/dependabot-core/))
 * Coinbase
-* AngelList ([boba](https://github.com/angellist/boba/tree/main/lib))
+* AngelList ([boba](https://github.com/angellist/boba))
 * Stainless ([ruby-sorbet-support](https://www.stainless.com/changelog/ruby-sorbet-support))
 * Anthropic ([anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby/)) (uses Stainless)
 
