@@ -43,6 +43,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 
 * [Remote Ruby: Rails 7, Railties, and Sorbet at Shopify with Rafael França from Rails Core
 ](https://remoteruby.com/157)
+* [Ruby Rogues: Sorbet with Ufuk Kayserilioglu](https://topenddevs.com/podcasts/ruby-rogues/episodes/sorbet-with-ufuk-kayserilioglu-ruby-664)
 * [Ruby Rogues: Using Typing Systems in Ruby with Sorbet ft. Alex Dunae](https://topenddevs.com/podcasts/ruby-rogues/episodes/using-typing-systems-in-ruby-with-sorbet-ft-alex-dunae-ruby-512)
 * [Shipit! Presents: The State of Ruby Static Typing at Shopify with Ufuk Kayserilioglu and Alexandre Terrasa](https://www.youtube.com/watch?v=DA9gPuBkhFk)
 * [The Changelog: Types will win in the end](https://changelog.com/podcast/548) with Jake Zimmerman
