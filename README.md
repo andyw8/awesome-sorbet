@@ -65,6 +65,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 * [StackOverflow: Questions tagged 'sorbet'](https://stackoverflow.com/questions/tagged/sorbet)
 * [Sorbet Slack Community](https://sorbet.org/slack)
 
+## News
+
+* [https://newsletters.eremin.eu](Static Ruby Monthly)
+
 ## Open Source codebases using Sorbet
 
 * [ruby-lsp](https://github.com/Shopify/ruby-lsp)
