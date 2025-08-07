@@ -89,6 +89,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 * https://github.com/phobos/phobos - Simplifying Kafka for Ruby apps
 * https://github.com/rubyatscale/code_ownership - A gem to help engineering teams declare ownership of code (Gusto)
 * https://github.com/yob/pdf-reader
+* https://github.com/vicentereig/dspy.rb - The Ruby framework for programming—rather than prompting—language models.
 
 ## Companies using Sorbet
 
