@@ -11,6 +11,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 * https://github.com/Shopify/rbi-central
 * https://github.com/kddnewton/sorbet-eraser - Erase all traces of sorbet-runtime code
 * https://github.com/dduugg/yard-sorbet
+* https://github.com/thatch-health/grape_sorbet - Sorbet signatures and Tapioca DSL compiler for Grape
 * https://github.com/thatch-health/sorbet_operation
 * https://github.com/AaronC81/parlour
 * https://github.com/AaronC81/sord - Convert YARD docs to Sorbet RBI and Ruby 3/Steep RBS files
