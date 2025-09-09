@@ -69,7 +69,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 
 ## News
 
-* [https://newsletters.eremin.eu](Static Ruby Monthly)
+* [Static Ruby Monthly](https://newsletters.eremin.eu)
 
 ## Open Source codebases using Sorbet
 
