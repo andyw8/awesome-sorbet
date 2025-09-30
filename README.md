@@ -19,6 +19,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources and exam
 * ~https://github.com/coinbase/protoc-gen-rbi - Protobuf compiler plugin that generates Sorbet .rbi "Ruby Interface" files.~ (gone)
 * https://github.com/angellist/boba - a collection of compilers for Sorbet & Tapioca.
 * https://gitlab.com/tanna.dev/schema-sorbet - A command-line tool to convert well-formed schemas to Sorbet types.
+* https://github.com/DocSpring/sorbet-typescript - Generate TypeScript types from Sorbet type definitions
 
 ## Courses
 
